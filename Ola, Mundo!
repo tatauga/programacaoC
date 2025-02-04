@@ -1,1 +1,9 @@
-# programacaoC
+#include <stdio.h>
+
+int man(){
+
+printf ("Ola, Mundo!\n");
+
+return 0;
+
+}
